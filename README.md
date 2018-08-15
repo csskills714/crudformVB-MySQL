@@ -15,9 +15,9 @@ Email          TextBox3
 Webisite       TextBox4
 Search By Name TextBox5
  
- Add 5 Buttons
- Input
- Update
- Delete
- Reset
+ Add 5 Buttons with text and name as shown below.
+ Input  btnInput
+ Update btnUpdate
+ Delete btnDelete
+ Reset  btnReset
  
